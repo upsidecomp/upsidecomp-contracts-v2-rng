@@ -8,7 +8,7 @@ jobs:
     steps:
       - checkout
       - run:
-          name: Install and Test
+          name: Install and Test Coverage
           command: yarn && yarn coverage
       - coveralls/upload
 workflows:
