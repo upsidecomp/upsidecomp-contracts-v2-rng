@@ -10,7 +10,7 @@ jobs:
       - run:
           name: Install and Test
           command: yarn && yarn coverage
-      - coveralls/upload
+      - coveralls/upload:
           path_to_lcov: ./coverage/lcov.info
 workflows:
     build-and-test:
