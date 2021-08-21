@@ -4,7 +4,7 @@
 
 [![built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)](https://docs.openzeppelin.com/)
 
-The [Upside](https://www.upsidecomp.com/) No-Loss NFT Protocol.
+[Upside Protocol](https://www.upsidecomp.com/): No-Loss NFT Giveaways.
 
 See the [documentation](https://docs.pooltogether.com/protocol/random-number-generator) -- based on PoolTogtether.
 
